@@ -8,3 +8,4 @@ Repository ini digunakan sebagai seyembara pencarian volunter pembuatan aplikasi
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* RepmokimAdel, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
